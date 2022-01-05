@@ -22,11 +22,11 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Rückerstattung',
+    title: 'Komplexe Fragen',
     Svg: require('../../static/img/undraw_bitcoin.svg').default,
     description: (
       <>
-       Egal auf welchem Niveau. Wir helfen Ihnen, damit Sie es verstehen. Wenn Sie nicht sicher sind, ob wir Ihnen helfen können, schicken Sie uns einfach eine E-Mail und wir melden uns bei Ihnen. Wenn Sie einen Termin gebucht haben und wir Ihnen nicht helfen können, wird Ihr Geld zurückerstattet.
+       Wenn Sie nicht sicher sind, ob wir Ihnen helfen können, schicken Sie uns einfach eine E-Mail und wir melden uns bei Ihnen. Wenn Sie einen Termin gebucht haben und wir Ihnen nicht helfen können, wird Ihr Geld zurückerstattet.
       </>
     ),
   },
