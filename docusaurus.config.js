@@ -7,14 +7,14 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Bitcoin Support',
-  tagline: 'We are here to help.',
-  url: 'https://bitcoin-support.org',
+  tagline: 'Wir sind für Sie da.',
+  url: 'https://bitcoin-support.de',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'bitcoin-support', // Usually your GitHub org/user name.
-  projectName: 'bitcoin-support-org', // Usually your repo name.
+  projectName: 'bitcoin-support-de', // Usually your repo name.
 
   presets: [
     [
@@ -49,8 +49,8 @@ const config = {
         },
         items: [
           {
-            label: '🇩🇪 Deutsch',
-            href: 'https://bitcoin-support.de',
+            label: '🇬🇧 English',
+            href: 'https://bitcoin-support.org',
             position: 'right',
           },
         ],

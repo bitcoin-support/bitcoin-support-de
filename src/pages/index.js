@@ -17,14 +17,14 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="https://cal.com/bitcoin-support">
-            📞 Schedule a call!
+            📞 Vereinbaren Sie einen Anruf!
           </Link>
           ---
           <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
             to="mailto:info@bitcoin-support.org">
-            ✉️ Ask by mail!
+            ✉️ Fragen Sie per Mail!
           </Link>
         </div>
         </div>

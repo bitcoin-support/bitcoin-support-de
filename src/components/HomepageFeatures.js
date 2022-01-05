@@ -4,29 +4,29 @@ import styles from './HomepageFeatures.module.css';
 
 const FeatureList = [
   {
-    title: 'Beginner',
+    title: 'Anfänger',
     Svg: require('../../static/img/undraw_explore.svg').default,
     description: (
       <>
-        Are you new to Bitcoin? We can help you with any questions you have. Make an appointment and ask us.
+        Sind Sie neu bei Bitcoin? Wir helfen Ihnen bei allen Fragen, die Sie haben. Vereinbaren Sie einen Termin und fragen Sie uns.
       </>
     ),
   },
   {
-    title: 'Topics',
+    title: 'Themen',
     Svg: require('../../static/img/undraw_questions.svg').default,
     description: (
       <>
-        We will help you with all topics related to Bitcoin. Hardware Wallets, Software Wallets, the Blockchain, Nodes, Mining, ... For questions regarding taxes and investment, we can not give any advice.
+         Wir helfen Ihnen bei allen Themen rund um den Bitcoin. Hardware Wallets, Software Wallets, die Blockchain, Nodes, Mining, ... Bei Fragen zu Steuern und Investitionen können wir keine Beratung geben.
       </>
     ),
   },
   {
-    title: 'Refund',
+    title: 'Rückerstattung',
     Svg: require('../../static/img/undraw_bitcoin.svg').default,
     description: (
       <>
-        No matter at what level. We help you so that you understand. If you are not sure if we can help you, just send us an email and we will get back to you. If you have booked an appointment and we can't help you, your money will be refunded.
+       Egal auf welchem Niveau. Wir helfen Ihnen, damit Sie es verstehen. Wenn Sie nicht sicher sind, ob wir Ihnen helfen können, schicken Sie uns einfach eine E-Mail und wir melden uns bei Ihnen. Wenn Sie einen Termin gebucht haben und wir Ihnen nicht helfen können, wird Ihr Geld zurückerstattet.
       </>
     ),
   },
