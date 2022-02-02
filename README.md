@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b041dd8d-c3ea-4bc3-a8dd-f8f507734938/deploy-status)](https://app.netlify.com/sites/thirsty-colden-e76bc2/deploys)
+
 # Website
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
